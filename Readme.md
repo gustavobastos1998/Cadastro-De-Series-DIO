@@ -1,0 +1,1 @@
+Projeto_1 : cadastro de séries em c#. Fiz alterações nas formas dos getters e setters, validei inputs dos usuários e implementei uma função a mais que informa todas as séries apartir de um gênero específico.
